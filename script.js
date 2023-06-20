@@ -1,4 +1,5 @@
 function createTable() {
-    //Write your code here
+ let x = prompt("Input number of rows");
+ let y = prompt("Input number of columns");
   
 }
